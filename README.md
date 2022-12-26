@@ -1,4 +1,5 @@
-- This is a library that can be used to model and run a sat problem
+- This library aims at modelling sat problems following the DIMACS CNF format
+- It can be used to run a solver and to print the solutions (if any) is a user-friendly format
 - Install a sat solver then update its path in students_lib.py
 - I highly recommend to install the kissat solver https://github.com/arminbiere/kissat
 - The library is implemented in the students_lib.py file 
