@@ -10,7 +10,7 @@ import timeit
 
 VERBOSITY=True
 RUNSOLVER=True
-SOLVERPATH='./kissat-bin'
+SOLVERPATH='../sat_modelling/kissat-bin'
 start = timeit.default_timer()
 
     
