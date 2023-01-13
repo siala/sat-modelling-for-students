@@ -159,7 +159,7 @@ def run_solver(outputfile)    :
         for line in fp:
             if "UNSATISFIABLE" in line:
                 fp.close()
-                exit()
+                return sol
             elif line[0]== 'v':
                 #[ 1:] )
                 sol +=  [int(x) for x in line.split()[1:] ]
