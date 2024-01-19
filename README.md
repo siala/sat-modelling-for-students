@@ -5,9 +5,7 @@
 - The library is implemented in the students_lib.py file 
 - The variables and the clauses of the model should be declared using the 'model' class 
 - A number of functions are provided to help the encoding of standard constraints
-- A running example is given in example1.py
-- To test example1.py: simply run 
-- python3 example1.py
+- To test the library, a running example is available in example1.py. Run it to test the installation
 - Take some time to understand the library
 - You are supposed to complete the students_lib.py file to encode the at least k constraint
 - Use example2.py to test you encoding 
